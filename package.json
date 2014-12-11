@@ -1,7 +1,7 @@
 {
-  "name": "react-hot-starter",
-  "version": "0.2.5",
-  "description": "Hot starting point for React apps",
+  "name": "react-ionic",
+  "version": "0.1.0",
+  "description": "React.js utility components for working with ionic framework",
   "scripts": {
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js --hot"
   },
@@ -17,10 +17,18 @@
   },
   "keywords": [
     "react",
-    "webpack",
-    "hmr",
-    "livereload"
+    "ionic"
   ],
-  "author": "Juho Vepsalainen <bebraw@gmail.com>",
-  "license": "MIT"
+  "author": "Rami Valta <rami.valta@gmail.com>",
+  "license": "MIT",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tiil/react-ionic.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tiil/react-ionic/issues"
+  },
+  "homepage": "https://github.com/tiil/react-ionic"
 }
