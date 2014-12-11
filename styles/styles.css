@@ -1,0 +1,46 @@
+div {
+	//margin-bottom: 32px;
+}
+
+.bar-header {
+	margin-bottom: 32px;
+}
+
+.header-hack {
+	margin-top: 48px;
+}
+
+pre {
+	white-space: pre-wrap !important;
+	word-wrap: break-word !important;
+	word-break: keep-all;
+	background: #eee;
+	font-family: 'Menlo', 'Monaco', 'Andale Mono', 'Courier New';
+	font-size: 12px;	
+}
+
+html, body {
+	overflow: auto;
+}
+
+.padding {
+	
+}
+
+code {
+	/*//font-size: 12px;
+	white-space: pre-wrap !important;*/
+}
+
+blockquote {
+	//margin-top: 48px;
+	/*white-space: pre-wrap !important;	*/
+}
+
+.big-icon {
+	font-size: 36px;
+}
+
+.extra-margin {
+	margin-right: 24px !important;
+}
